@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-PAPLEUX-F](https://github.com/samuel-poinama/quotes-Papleux-F)
-- `contributor-2`: [quotes-POINAMA-F](https://github.com/samuel-poinama/quotes-Linossier-F)
+- `contributor-2`: [quotes-LINOSSIER-F](https://github.com/samuel-poinama/quotes-Linossier-F)
 - `contributor-3`: [quotes-POINAMA-F](https://github.com/samuel-poinama/quotes-Poinama-F)
