@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: POINAMA Samuel Group F
 
 ## Fork urls
-- `contributor-1`: [quotes-POINAMA-F](https://github.com/samuel-poinama/quotes-Poinama-F)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-PAPLEUX-F](https://github.com/samuel-poinama/quotes-Papleux-F)
+- `contributor-2`: [quotes-LINOSSIER-F](https://github.com/samuel-poinama/quotes-Linossier-F)
+- `contributor-3`: [quotes-POINAMA-F](https://github.com/samuel-poinama/quotes-Poinama-F)
